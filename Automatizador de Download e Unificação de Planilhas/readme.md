@@ -1,4 +1,4 @@
-Automatizador de Download e Unificação de Planilhas (Flask)
+# Automatizador de Download e Unificação de Planilhas (Flask)
 
 Este script foi criado para automatizar a tarefa de baixar várias planilhas .xlsx hospedadas em links externos e unificar todas elas em um único arquivo Excel, cada uma em sua própria aba.
 
